@@ -11,6 +11,7 @@ namespace MyRepoTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hi");
+            Point point = new Point() { X = 10, Y = 10 };
         }
     }
 }
